@@ -14,6 +14,7 @@ sqlite3
 
 Feito isto, ao rodar o arquivo setup.py o programa deve executar.
 
+![image](https://user-images.githubusercontent.com/62965920/127556642-b8092523-b758-412d-801b-b731e96f5a71.png)
 
 
 
